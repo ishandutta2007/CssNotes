@@ -16,6 +16,7 @@ I refer these styles from time to time:
 - https://dev.to/webdeasy/30-awesome-css-background-patterns-dpl
 - https://cssgradient.io/
 - https://uigradients.com/
+- https://webgradients.com/
 
 ### Menu:
 - https://dev.to/webdeasy/10-awesome-css-hamburger-menus-1iho
