@@ -18,6 +18,7 @@ I refer these styles from time to time:
 - https://uigradients.com/
 - https://webgradients.com/
 - https://gradients.shecodes.io/
+- https://mycolor.space/gradient
 
 ### Menu:
 - https://dev.to/webdeasy/10-awesome-css-hamburger-menus-1iho
