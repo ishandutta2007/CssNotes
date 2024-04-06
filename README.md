@@ -19,6 +19,7 @@ I refer these styles from time to time:
 - https://webgradients.com/
 - https://gradients.shecodes.io/
 - https://mycolor.space/gradient
+- https://www.gradientmagic.com/
 
 ### Menu:
 - https://dev.to/webdeasy/10-awesome-css-hamburger-menus-1iho
