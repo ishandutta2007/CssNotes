@@ -6,3 +6,8 @@ I refer these styles from time to time:
 - https://codepen.io/tag/button%20hover?cursor=ZD0xJm89MCZwPTI=
 - https://dev.to/webdeasy/top-20-css-buttons-animations-f41
 - https://webdeasy.de/en/top-css-buttons-en/?action=updated
+
+
+
+###Forms
+- https://dev.to/webdeasy/15-beautiful-css-forms-15f0
