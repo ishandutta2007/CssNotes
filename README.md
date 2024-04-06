@@ -7,6 +7,7 @@ I refer these styles from time to time:
 - https://www.sliderrevolution.com/resources/css-button-hover-effects/
 - https://www.lambdatest.com/blog/best-css-button-hover-effects/
 - https://dev.to/webdeasy/top-20-css-buttons-animations-f41
+- https://tympanus.net/Development/ButtonHoverStyles/
 - https://webdeasy.de/en/top-css-buttons-en/?action=updated
 - https://codepen.io/woolandcotton/pen/mBmLwq
 
