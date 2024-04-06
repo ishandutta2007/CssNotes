@@ -27,3 +27,6 @@ I refer these styles from time to time:
 
 ### Menu:
 - https://dev.to/webdeasy/10-awesome-css-hamburger-menus-1iho
+
+### Mixed
+- https://www.proglobalbusinesssolutions.com/css-hover-effects/
