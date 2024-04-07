@@ -10,6 +10,7 @@ I refer these styles from time to time:
 - https://tympanus.net/Development/ButtonHoverStyles/
 - https://webdeasy.de/en/top-css-buttons-en/?action=updated
 - https://codepen.io/woolandcotton/pen/mBmLwq
+- https://freefrontend.com/css-ripple-effects/
 
 
 
