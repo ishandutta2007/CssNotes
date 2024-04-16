@@ -19,6 +19,7 @@ I refer these styles from time to time:
 
 ### Background:
 - https://dev.to/webdeasy/30-awesome-css-background-patterns-dpl
+- https://devdevout.com/css/css-animated-backgrounds
 - https://cssgradient.io/
 - https://uigradients.com/
 - https://webgradients.com/
